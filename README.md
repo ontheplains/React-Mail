@@ -1,4 +1,4 @@
-## React Mail
+Project for DevMountain  --  React Mail
 
 ### Objectives
 Become comfortable with routing and lifecycle methods.
